@@ -1,0 +1,55 @@
+Product Backlog – Aplicación de Recetas de Cocina
+1) Buscar recetas por nombre o ingredientes
+
+Descripción: El usuario puede escribir un ingrediente o nombre y el sistema muestra recetas relacionadas.
+
+Prioridad: Alta
+
+Esfuerzo: 8 puntos (o 10 horas)
+
+2) Ver detalle de una receta
+
+Descripción: Al seleccionar una receta, el usuario visualiza ingredientes, pasos, tiempo de preparación y foto.
+
+Prioridad: Alta
+
+Esfuerzo: 5 puntos (o 6 horas)
+
+3) Guardar recetas como favoritas
+
+Descripción: El usuario puede marcar recetas como favoritas para acceder a ellas rápidamente desde su perfil.
+
+Prioridad: Media
+
+Esfuerzo: 3 puntos (o 4 horas)
+
+4) Crear y publicar una nueva receta
+
+Descripción: Los usuarios registrados pueden agregar nuevas recetas incluyendo nombre, descripción, ingredientes, pasos y fotografía.
+
+Prioridad: Alta
+
+Esfuerzo: 13 puntos (o 16 horas)
+
+5) Filtro por categorías (vegano, postres, pastas, etc.)
+
+Descripción: Permite filtrar recetas por categorías predefinidas para mejorar la búsqueda.
+
+Prioridad: Media
+
+Esfuerzo: 5 puntos (o 6 horas)
+
+6) Valoración de recetas (estrellas o puntuación)
+
+Descripción: Los usuarios pueden calificar las recetas, mejorando la relevancia en los listados.
+
+Prioridad: Baja
+
+Esfuerzo: 3 puntos (o 4 horas)
+
+Si deseas, puedo ayudarte también a:
+
+✅ generar historias de usuario en formato "Como <rol> quiero <funcionalidad> para <beneficio>",
+✅ preparar un backlog más extenso (10–15 ítems),
+✅ crear criterios de aceptación (Given / When / Then),
+✅ ordenarlo en Sprint Backlog.

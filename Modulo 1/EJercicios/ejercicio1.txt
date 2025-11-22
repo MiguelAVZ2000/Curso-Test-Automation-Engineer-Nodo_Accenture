@@ -1,0 +1,39 @@
+Título del bug:
+
+El sistema no permite cerrar sesión desde el botón “Cerrar Sesión”
+
+Prioridad:
+
+Alta
+(Impacta directamente la seguridad y experiencia del usuario.)
+
+Severidad:
+
+Crítica
+(El usuario queda imposibilitado de finalizar su sesión, comprometiendo la privacidad.)
+
+Pasos para reproducir:
+
+Iniciar sesión en la aplicación web con un usuario válido.
+
+Navegar a cualquier sección del sistema.
+
+Hacer clic en el botón "Cerrar sesión" ubicado en el menú superior derecho.
+
+Observar la respuesta del sistema.
+
+Resultado esperado:
+
+El sistema debe cerrar la sesión del usuario, destruir la sesión activa y redirigir a la pantalla de inicio de sesión.
+
+Resultado obtenido:
+
+Al hacer clic en “Cerrar sesión”, la página se recarga pero el usuario permanece autenticado. No se elimina la sesión ni se redirige fuera del sistema.
+
+Estado actual del bug:
+
+Abierto (Open)
+
+Asignado a:
+
+Equipo de Desarrollo – Frontend/Backend (por confirmar)
